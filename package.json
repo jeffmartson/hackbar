@@ -24,7 +24,7 @@
     "highlight.js": "^11.9.0",
     "http-z": "^7.0.0",
     "pinia": "^2.1.7",
-    "vue": "^3.4.15",
+    "vue": "^3.5.14",
     "vuetify": "^3.5.1"
   },
   "devDependencies": {
